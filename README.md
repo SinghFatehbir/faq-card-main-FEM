@@ -2,14 +2,10 @@
 
 This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+### Links
 
-- [The challenge](#the-challenge)
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [Built with](#built-with)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-functional-no-js-dg6Y6WEIr-)
+- Live Site URL: [Live Site](https://singhfatehbir.github.io/faq-card-main-FEM/)
 
 ### The challenge
 
@@ -22,11 +18,6 @@ Users should be able to:
 ### Screenshot
 
 ![ResultScreenshot](./design/Screenshot.jpg)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
 
